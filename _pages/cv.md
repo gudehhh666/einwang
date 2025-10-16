@@ -36,24 +36,24 @@ Research Intern
 Competitions
 ======
 
-* CVPR 2024 — Image Matching Challenge (Hexathlon, Kaggle)
-  * Bronze Medal (Top 8% worldwide).
-  * Links: [Competition](https://www.kaggle.com/competitions/image-matching-challenge-2024) - [Leaderboard](https://www.kaggle.com/c/image-matching-challenge-2024/leaderboard)
-
-
-* ICASSP 2025 Grand Challenge — MEIJU’25 (Multimodal Emotion & Intent Joint Understanding)
-  * Track 2 (English): 3rd Place. *(Completed during my internship at Lenovo Research)*
-  * Links: [Competition](https://ai-s2-lab.github.io/MEIJU2025-website/) - [Leaderboard](https://codalab.lisn.upsaclay.fr/competitions/20424).
+* ACM Multimedia 2025 — MER 2025 Challenge (MRAC'25 Workshop) 
+  * Track 1 (MER-SEMI) · 2nd Place; *(Completed during my internship at Lenovo Research)*
+  * Track 2 (MER-FG) · 2nd Place. *(Completed during my internship at Lenovo Research)*
+  * Links: [MER 2025 Dataset/Challenge page](https://huggingface.co/datasets/MERChallenge/MER2025) - [MRAC’25 workshop hub](https://react-ws.github.io/2025_mrac/).
 
 * CVPR 2025 — VideoLLMs Workshop: CVRR (Complex Video Reasoning & Robustness Evaluation) 
   * 2nd Place *(Completed during my internship at Lenovo Research)*
   * Links: [Challenge overview (EvalAI)](https://eval.ai/web/challenges/challenge-page/2480/overview) - [Leaderboard (EvalAI)](https://eval.ai/web/challenges/challenge-page/2480/leaderboard) - [Workshop page](https://www.crcv.ucf.edu/cvpr2025-vidllms-workshop/)
   ([EvalAI][3])
 
-* ACM Multimedia 2025 — MER 2025 Challenge (MRAC'25 Workshop) 
-  * Track 1 (MER-SEMI) · 2nd Place; *(Completed during my internship at Lenovo Research)*
-  * Track 2 (MER-FG) · 2nd Place. *(Completed during my internship at Lenovo Research)*
-  * Links: [MER 2025 Dataset/Challenge page](https://huggingface.co/datasets/MERChallenge/MER2025) - [MRAC’25 workshop hub](https://react-ws.github.io/2025_mrac/).
+* ICASSP 2025 Grand Challenge — MEIJU’25 (Multimodal Emotion & Intent Joint Understanding)
+  * Track 2 (English): 3rd Place. *(Completed during my internship at Lenovo Research)*
+  * Links: [Competition](https://ai-s2-lab.github.io/MEIJU2025-website/) - [Leaderboard](https://codalab.lisn.upsaclay.fr/competitions/20424).
+
+* CVPR 2024 — Image Matching Challenge (Hexathlon, Kaggle)
+  * Bronze Medal (Top 8% worldwide).
+  * Links: [Competition](https://www.kaggle.com/competitions/image-matching-challenge-2024) - [Leaderboard](https://www.kaggle.com/c/image-matching-challenge-2024/leaderboard)
+
 
 
 Awards
