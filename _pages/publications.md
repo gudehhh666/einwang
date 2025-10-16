@@ -13,7 +13,7 @@ The full publication list can be found on my <a href="https://scholar.google.com
 Year 2025
 ======
 
-* <a title="Techrxiv" href="https://www.techrxiv.org/users/951553/articles/1320864-the-hitchhiker-s-guide-to-autonomous-research-a-survey-of-scientific-agents"  style="color: rgb(203, 157, 255);">See What LLMs Cannot Answer: A Self-Challenge Framework for Uncovering LLM Weaknesses.</a>
+* <a title="Techrxiv" href="https://www.techrxiv.org/users/951553/articles/1320864-the-hitchhiker-s-guide-to-autonomous-research-a-survey-of-scientific-agents"  style="color: rgb(203, 157, 255);">The Hitchhiker's Guide to Autonomous Research: A Survey of Scientific Agents.</a>
 <br>**Xinming Wang**, Jian Xu, Aslan H Feng, Yi Chen, Haiyang Guo, Fei Zhu, Yuanqi Shao, Minsi Ren, Hongzhu Yi, Sheng Lian, Hongming Yang, Tailin Wu, Han Hu, Shiming Xiang, Xu-Yao Zhang, Cheng-Lin Liu.<br> Preprint.
 
 * MR-ALIGN: Meta-Reasoning Informed Factuality Alignment for Large Reasoning Models. 
