@@ -27,6 +27,9 @@ Year 2025
 * Policy Optimization with Experience Replay: Guiding Reasoning Models to Complete the Reasoning Path. 
 <br>Hongzhu Yi, **Xinming Wang**, Zhenghao Zhang, Tianyu Zong, Tao Yu, Jiahuan Chen, Yuanxiang Wang, Zhepeng Wang, Jun Xie, Tiankun Yang, Jungang Xu.<br> Under Review.
 
+* Efficient LLM Pruning with Entropy-Aware Token Selection. 
+<br>Hongzhu Yi, **Xinming Wang**, Jun Xie, Zhepeng Wang, Feng Chen, Yuanxiang Wang, Zhenghao Zhang, Tianyu Zong, Tao Yu, Yujia Yang, Zhenyu Guan, Jiahuan Chen, Tiankun Yang, Kaixin Xu, Aslan Huo Feng, Jungang Xu.<br> Under Review.
+
 Year 2024
 ======
 
