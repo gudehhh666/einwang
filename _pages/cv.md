@@ -44,7 +44,6 @@ Competitions
 * CVPR 2025 — VideoLLMs Workshop: CVRR (Complex Video Reasoning & Robustness Evaluation) 
   * 2nd Place *(Completed during my internship at Lenovo Research)*
   * Links: [Challenge overview (EvalAI)](https://eval.ai/web/challenges/challenge-page/2480/overview) - [Leaderboard (EvalAI)](https://eval.ai/web/challenges/challenge-page/2480/leaderboard) - [Workshop page](https://www.crcv.ucf.edu/cvpr2025-vidllms-workshop/)
-  ([EvalAI][3])
 
 * ICASSP 2025 Grand Challenge — MEIJU’25 (Multimodal Emotion & Intent Joint Understanding)
   * Track 2 (English): 3rd Place. *(Completed during my internship at Lenovo Research)*
