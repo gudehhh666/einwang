@@ -11,20 +11,18 @@ redirect_from:
 
 
 
-
-
 Education
 ======
-* Sep 2024 - Present: Ph.D
+* Sep 2024 - Present: **Ph.D Student**
   * Institute of Automation, Chinese Academy of Sciences (CASIA). Supervised by Prof. [Xu-Yao Zhang](https://people.ucas.edu.cn/~xuyaozhang).
-* Sep 2024 - Present: Ph.D Joint Program
+* Sep 2024 - Present: **Ph.D Joint Program**
   * Zhongguancun Academy (ZGCA). Supervised by Prof. [Cheng-Lin Liu](https://people.ucas.ac.cn/~liuchenglin)
   * In the Project Group on "Theory and Methods for Building Scientific Foundation Models and Application Validation".
 
-* Sep 2020 - Jul 2024: B.S.
+* Sep 2020 - Jul 2024: **B.S.**
   * School of Electrical and Information Engineering, Tianjin University. Supervised by Prof. [Qinghao Meng](https://seea.tju.edu.cn/info/1013/1569.htm).
 
-Internship
+Research Intern
 ======
 * Sep 2024 - Jun 2025: 
   * Lenovo Research, PCIE Lab
