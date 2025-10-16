@@ -29,4 +29,4 @@ Year 2025
 Year 2024
 
 * Spatial memory-augmented visual navigation based on hierarchical deep reinforcement learning in unknown environments. 
-<br>Sheng Jin, Xinming Wang, Qinghao Meng.<br> Knowledge-Based Systems 2024.
+<br>Sheng Jin, **Xinming Wang**, Qinghao Meng.<br> Knowledge-Based Systems 2024.
