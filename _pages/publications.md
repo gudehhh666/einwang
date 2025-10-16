@@ -11,6 +11,7 @@ author_profile: true
 The full publication list can be found on my <a href="https://scholar.google.com/citations?user=dXyQsh8AAAAJ&hl=zh-CN"   style="color: rgb(203, 157, 255);">Google Scholar</a>.
 
 Year 2025
+======
 
 * <a title="Techrxiv" href="https://www.techrxiv.org/users/951553/articles/1320864-the-hitchhiker-s-guide-to-autonomous-research-a-survey-of-scientific-agents"  style="color: rgb(203, 157, 255);">See What LLMs Cannot Answer: A Self-Challenge Framework for Uncovering LLM Weaknesses.</a>
 <br>**Xinming Wang**, Jian Xu, Aslan H Feng, Yi Chen, Haiyang Guo, Fei Zhu, Yuanqi Shao, Minsi Ren, Hongzhu Yi, Sheng Lian, Hongming Yang, Tailin Wu, Han Hu, Shiming Xiang, Xu-Yao Zhang, Cheng-Lin Liu.<br> Preprint.
@@ -27,6 +28,7 @@ Year 2025
 <br>Hongzhu Yi, **Xinming Wang**, Zhenghao Zhang, Tianyu Zong, Tao Yu, Jiahuan Chen, Yuanxiang Wang, Zhepeng Wang, Jun Xie, Tiankun Yang, Jungang Xu.<br> Under Review.
 
 Year 2024
+======
 
 * Spatial memory-augmented visual navigation based on hierarchical deep reinforcement learning in unknown environments. 
 <br>Sheng Jin, **Xinming Wang**, Qinghao Meng.<br> Knowledge-Based Systems 2024.
